@@ -7,13 +7,13 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>ISucht Start-seite!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Wilkommen auf isucht!" />
         <p className="description">
-          ISucht Service sind nicht verfügbar! <code>pages/index.js</code>
+          ISucht Service sind nicht verfügbar! <code>Tut uns leid!</code>
         </p>
       </main>
 
