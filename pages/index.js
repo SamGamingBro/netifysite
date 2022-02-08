@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>ISucht Start-seite!</title>
-        <link rel="icon" href="" />
+        <link rel="icon" href="favicon.com/icon" />
       </Head>
 
       <main>
