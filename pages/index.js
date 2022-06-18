@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>ISucht Start-seite!</title>
+        <title>Dexpress Start-Site!</title>
         <link rel="icon" href="favicon.com/icon" />
       </Head>
 
       <main>
-        <Header title="Wilkommen auf isucht!" />
+        <Header title="Welcome to Dexpress!" />
         <p className="description">
-          ISucht Service sind nicht verfügbar! <code>Tut uns leid!</code>
+          Dexpress! <code>Im Sorry!</code>
         </p>
       </main>
 
